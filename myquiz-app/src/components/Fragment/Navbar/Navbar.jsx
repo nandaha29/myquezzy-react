@@ -22,12 +22,6 @@ function Navbar() {
                   <a href="/" className=" text-gray-500 hover:text-violet-500 rounded-md px-2 py-2 text-sm font-medium" aria-current="page">
                     Dashboard
                   </a>
-                  <a href="/login" className=" text-gray-500 hover:text-violet-500 rounded-md px-2 py-2 text-sm font-medium" aria-current="page">
-                    Login
-                  </a>
-                  <a href="/register" className=" text-gray-500 hover:text-violet-500 rounded-md px-2 py-2 text-sm font-medium" aria-current="page">
-                    Regist
-                  </a>
                 </div>
               </div>
             </div>
