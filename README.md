@@ -25,6 +25,6 @@ $ npm start
 - link repository github :
 https://github.com/nandaha29/myquezzy-react
 - link deploy :
-https://myrestoapp.vercel.app/
+https://myquezzyapp.vercel.app/
 
  
