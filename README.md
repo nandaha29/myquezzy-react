@@ -9,7 +9,7 @@ ReactJS + tailwindcss + db trivia + firebase
 # clone this repository
 $ git clone https://github.com/nandaha29/myquezzy-react.git
 # move to project folder
-$ cd cmlabs-frontend-parttime-test/myquiz-app/
+$ cd myquezzy-react/myquiz-app/
 # install dependencies
 $ npm install
 ```
